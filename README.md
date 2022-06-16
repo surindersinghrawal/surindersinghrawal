@@ -1,116 +1,75 @@
-<h1 align="center">👋 Hi, I'm Surinder Singh!</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<div>
+    <h3 align="center" font-size="24"> Hi there! I'm Abhinav Rawal </h3>
+    <p align="center">A passionate Web/ML developer from India</p>
+</div>
 
-🔭 I’m currently working on **Coherence(Virtual Classroom) and ASTL(Advanced Standard Library)**
-💬 Ask me about **MERN, Machine Learning, Advanced Algorithms**
+---
 
-📫 How to reach me **abhinavrawal2002@gmail.com**
+<p align="justify"> I am a CS Undergrad who has keen interest in Algorithms and Design which has brought me to developing Web Apps as well as Machine Learning models along with their integration. I am also proficient in UX(Interaction) design and data analysis.</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rawalabhinav&label=Profile%20views&color=0e75b6&style=flat" alt="rawalabhinav" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rawalabhinav" alt="rawalabhinav" /></a> </p>
-
-
-<h3 align="center">Connect with me</h3>
-
-<p align="left">
-    <a href="https://kaggle.com/rawalabhinav" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rawalabhinav" height="30" width="40" />
-    </a>
-  
-    <a href="https://www.codechef.com/users/abhinavrawal" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhinavrawal" height="30" width="40" />
-    </a>
-    
-    <a href="https://codeforces.com/profile/abhinavrawal" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhinavrawal" height="30" width="40" />
-    </a>
+<p align ="center">     
+    <img width="500"  src="https://github-readme-streak-stats.herokuapp.com/?user=rawalabhinav&theme=github-dark-blue" alt="rawalabhinav" />    
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rawalabhinav&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="rawalabhinav" /> </p>
 
-<p align="left"> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a> 
-    
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-  
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-    </a> 
-    
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-    </a>
-    
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-    </a>
-    
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a> 
-    
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a>
-    
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a>
-    
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-    
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a> 
-    
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a> 
-    
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-    </a> 
-    
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-    </a> 
-    
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    </a>
-    
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a> 
-    
+<!-- Skills -->
+<h2> Skills 🛠️ </h2>
+
+<h3> Languages </h3>    
+<p align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">    
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">    
+        <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
+        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
+<h3> Libraries and frameworks </h3>
+<p align="center">
+       <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+       <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+       <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+       <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
+       <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+       <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">        
+       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</p>
+  
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rawalabhinav&show_icons=true&locale=en&layout=compact" alt="rawalabhinav" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rawalabhinav&show_icons=true&locale=en" alt="rawalabhinav" /></p>
-
+<!-- Statistics -->
+<h2 align="left">Stats 📊</h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rawalabhinav&show_icons=true&theme=github_dark" width=57.5% alt="Github Stats" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawalabhinav&layout=compact&theme=github_dark&langs_count=8" width=41.5% alt="Github Stats" align="center">
+</div>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rawalabhinav&theme=react-dark" alt="rawalabhinav" />
+
+<!-- Achievements -->
+<h2 align="left">Achievements 🏆</h2>
+<p align = "center"> <img src="https://github-profile-trophy.vercel.app/?username=rawalabhinav&theme=darkhub" alt="rawalabhinav" /> </p>
+
+<!-- Connect -->
+<h2 align="left">Connect 🔗</h2>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/abhinav-rawal-81184a202/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
+    </a>
+    <a href="https://dribbble.com/abhinavrawal">
+        <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
+    </a>
+    <a href="https://www.kaggle.com/rawalabhinav">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+    </a>
+        </a>
+    <a href="https://www.codechef.com/users/abhinavrawal">
+        <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">
+    </a>
+</p>
+
